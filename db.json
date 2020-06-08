@@ -1,0 +1,28 @@
+{
+	"Productos": [
+		{
+				"SKU": "001",
+				"Nombre": "Router Wifi",
+				"Descripcion": "Router Inalámbrico TP-LINK Rompemuros",
+				"Precio": "4500"
+		},
+		{
+				"SKU": "002", 
+				"Nombre": "Teclado",
+				"Descripcion": "Teclado Gamer Logitech",
+				"Precio": "2500"
+		},
+		{
+				"SKU": "003",
+				"Nombre": "Mouse",
+				"Descripcion": "Mouse Inalámbrico Genius",
+				"Precio": "2100"
+		},
+		{		
+				"SKU": "004",
+				"Nombre": "Monitor",
+				"Descripcion": "Monitor 19 Pulgadas Phillips",
+				"Precio": "2100"
+		}
+	]
+}
