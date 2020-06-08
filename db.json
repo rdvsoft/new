@@ -11,19 +11,22 @@
 				"sku": "002", 
 				"nombre": "Teclado",
 				"descripcion": "Teclado Gamer Logitech",
-				"precio": "2500"
+				"precio": "2500",
+				"image":""
 		},
 		{
 				"sku": "003",
 				"nombre": "Mouse",
 				"descripcion": "Mouse Inalámbrico Genius",
-				"precio": "2100"
+				"precio": "2100",
+				"image":""
 		},
 		{		
 				"sku": "004",
 				"nombre": "Monitor",
 				"descripcion": "Monitor 19 Pulgadas Phillips",
-				"precio": "2100"
+				"precio": "2100",
+				"image":""
 		}
 	]
 }
