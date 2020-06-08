@@ -1,28 +1,27 @@
-{
-	"Productos": [
+[
 		{
-				"SKU": "001",
-				"Nombre": "Router Wifi",
-				"Descripcion": "Router Inalámbrico TP-LINK Rompemuros",
-				"Precio": "4500"
+				"sku": "001",
+				"nombre": "Router Wifi",
+				"descripcion": "Router Inalámbrico TP-LINK Rompemuros",
+				"precio": "4500"
 		},
 		{
-				"SKU": "002", 
-				"Nombre": "Teclado",
-				"Descripcion": "Teclado Gamer Logitech",
-				"Precio": "2500"
+				"sku": "002", 
+				"nombre": "Teclado",
+				"descripcion": "Teclado Gamer Logitech",
+				"precio": "2500"
 		},
 		{
-				"SKU": "003",
-				"Nombre": "Mouse",
-				"Descripcion": "Mouse Inalámbrico Genius",
-				"Precio": "2100"
+				"sku": "003",
+				"nombre": "Mouse",
+				"descripcion": "Mouse Inalámbrico Genius",
+				"precio": "2100"
 		},
 		{		
-				"SKU": "004",
-				"Nombre": "Monitor",
-				"Descripcion": "Monitor 19 Pulgadas Phillips",
-				"Precio": "2100"
+				"sku": "004",
+				"nombre": "Monitor",
+				"descripcion": "Monitor 19 Pulgadas Phillips",
+				"precio": "2100"
 		}
-	]
-}
+]
+
