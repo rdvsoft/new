@@ -4,28 +4,28 @@
 				"sku": "001",
 				"nombre": "Router Wifi",
 				"descripcion": "Router Inalámbrico TP-LINK Rompemuros",
-				"precio": "4500",
+				"precio": "4000",
 				"image":"https://www.sistemasjunin.com.ar/pub/media/catalog/product/cache/c81f65630bc9fbad3c890b9ed42bb807/p/i/pic_15082584823jpg.jpg"
 		},
 		{
 				"sku": "002", 
 				"nombre": "Teclado",
 				"descripcion": "Teclado Gamer Logitech",
-				"precio": "2500",
+				"precio": "4500",
 				"image":"https://w7.pngwing.com/pngs/93/325/png-transparent-computer-keyboard-logitech-g103-gaming-keyboard-computer-mouse-f-klavye-computer-mouse-electronics-computer-keyboard-computer.png"
 		},
 		{
 				"sku": "003",
 				"nombre": "Mouse",
 				"descripcion": "Mouse Inalámbrico Genius",
-				"precio": "2100",
+				"precio": "4100",
 				"image":"https://www.razorman.net/reviewshardware/wp-content/uploads/Genius-Gila.png"
 		},
 		{		
 				"sku": "004",
 				"nombre": "Monitor",
 				"descripcion": "Monitor 19 Pulgadas Phillips",
-				"precio": "2100",
+				"precio": "9100",
 				"image":"https://www.officomputers.com.ar/oc/wp-content/uploads/2018/06/193v5lsb2-4.png"
 		}
 	]
