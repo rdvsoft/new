@@ -5,7 +5,7 @@
 				"nombre": "Router Wifi",
 				"descripcion": "Router Inalámbrico TP-LINK Rompemuros",
 				"precio": "4500",
-				"image":"https://github.com/rdvsoft/new/blob/master/routertplink.jpg"
+				"image":"https://raw.githubusercontent.com/rdvsoft/new/master/routertplink.jpg"
 		},
 		{
 				"sku": "002", 
