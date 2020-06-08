@@ -12,21 +12,21 @@
 				"nombre": "Teclado",
 				"descripcion": "Teclado Gamer Logitech",
 				"precio": "2500",
-				"image":"https://github.com/rdvsoft/new/blob/master/teclado.jpg?raw=true"
+				"image":"https://www.fullh4rd.com.ar/img/productos/Pics_Prod/teclado-logitech-g213-prodigy-gaming-0.jpg"
 		},
 		{
 				"sku": "003",
 				"nombre": "Mouse",
 				"descripcion": "Mouse Inalámbrico Genius",
 				"precio": "2100",
-				"image":""
+				"image":"https://www.electronicospormayorbolivia.com/wp-content/uploads/2018/05/8-5.jpg"
 		},
 		{		
 				"sku": "004",
 				"nombre": "Monitor",
 				"descripcion": "Monitor 19 Pulgadas Phillips",
 				"precio": "2100",
-				"image":""
+				"image":"https://www.panoramaaudiovisual.com/wp-content/uploads/2017/11/Philips-328P6AUBREB.jpg"
 		}
 	]
 }
