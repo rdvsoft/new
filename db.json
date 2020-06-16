@@ -1,0 +1,32 @@
+{
+"Productos": [
+		{
+				"sku": "001",
+				"nombre": "Router Wifi",
+				"descripcion": "Router Inalámbrico TP-LINK Rompemuros",
+				"precio": "5500",
+				"image":"https://raw.githubusercontent.com/rdvsoft/new/master/router2.png"
+		},
+		{
+				"sku": "002", 
+				"nombre": "Teclado",
+				"descripcion": "Teclado Cougar",
+				"precio": "1200",
+				"image":"https://github.com/rdvsoft/new/blob/master/teclado2.png?raw=true"
+		},
+		{
+				"sku": "003",
+				"nombre": "Mouse",
+				"descripcion": "Mouse Inalámbrico",
+				"precio": "999",
+				"image":"https://github.com/rdvsoft/new/blob/master/mouse23.png?raw=true"
+		},
+		{		
+				"sku": "004",
+				"nombre": "Monitor",
+				"descripcion": "Monitor 24 Pulgadas MSI",
+				"precio": "15000",
+				"image":"https://github.com/rdvsoft/new/blob/master/monitor3.png?raw=true"
+		}
+	]
+}
